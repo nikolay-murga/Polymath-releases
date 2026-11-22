@@ -10,6 +10,7 @@ Choose your language:
 - [Deutsch](README.de.md)
 - [Español](README.es.md)
 - [Français](README.fr.md)
+- [Polski](README.pl.md)
 - [Türkçe](README.tr.md)
 - [中文](README.zh.md)
 
